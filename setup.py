@@ -5,7 +5,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 VERSION = '0.0.1'
-DESCRIPTION = 'Este paquete solo tiene como finalidad retornar los nombres de los personajes de harry potter con sus respectivas casas.'
+DESCRIPTION = 'personajes y casas harry potter'
 PACKAGE_NAME = 'yonier_harrypotter'
 AUTHOR = 'Yonier Gomez'
 EMAIL = 'yonieer13@gmail.com'
@@ -13,7 +13,7 @@ GITHUB_URL = 'https://github.com/YonierGomez/yonier_harrypotter'
 
 setup(
     name = PACKAGE_NAME,
-    packages = [DESCRIPTION],
+    packages = [PACKAGE_NAME],
     version = VERSION,
     license='MIT',
     description = DESCRIPTION,
@@ -22,7 +22,7 @@ setup(
     author = AUTHOR,
     author_email = EMAIL,
     url = GITHUB_URL,
-    keywords = ["Harry Potter", "Harry", "Potter", "Gryffindor", "Slytherin"],
+    keywords = ["Harry Potter", "Harry", "Potter", "Gryffindor", "Slytherin", "yonier harry potter", "yonier_harrypotter"],
     install_requires=[ 
         'requests',
     ],
