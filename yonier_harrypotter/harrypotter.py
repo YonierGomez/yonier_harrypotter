@@ -6,6 +6,8 @@ def harrypotter():
 
     if response.ok:
         payload = response.json()
-        # print(payload)
         for r in range(len(payload)):
             print(f"Hola, soy {payload[r]['name']} y mi casa es: {payload[r]['house']} " )
+
+if __name__ == '__main__':
+    harrypotter()
