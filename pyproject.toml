@@ -1,0 +1,18 @@
+[project]
+name = "yonierharrypotter_yonier"
+version = "0.0.1"
+authors = [
+  { name="Yonier Gomez", email="yonieer13@gmail.com" },
+]
+description = "personajes y casas harry potter"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/YonierGomez/yonier_harrypotter"
+"Bug Tracker" = "https://github.com/YonierGomez/yonier_harrypotter/issues"
