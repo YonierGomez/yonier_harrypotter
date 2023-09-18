@@ -9,7 +9,7 @@ DESCRIPTION = 'Este paquete solo tiene como finalidad retornar los nombres de lo
 PACKAGE_NAME = 'yonier_harrypotter'
 AUTHOR = 'Yonier Gomez'
 EMAIL = 'yonieer13@gmail.com'
-GITHUB_URL = ''
+GITHUB_URL = 'https://github.com/YonierGomez/yonier_harrypotter'
 
 setup(
     name = PACKAGE_NAME,
@@ -22,7 +22,7 @@ setup(
     author = AUTHOR,
     author_email = EMAIL,
     url = GITHUB_URL,
-    keywords = [],
+    keywords = ["Harry Potter", "Harry", "Potter", "Gryffindor", "Slytherin"],
     install_requires=[ 
         'requests',
     ],
