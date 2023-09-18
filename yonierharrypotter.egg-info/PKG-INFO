@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: yonierharrypotter
+Version: 0.0.1
+Summary: personajes y casas harry potter
+Home-page: https://github.com/YonierGomez/yonier_harrypotter
+Author: Yonier Gomez
+Author-email: yonieer13@gmail.com
+License: MIT
+Keywords: Harry Potter,Harry,Potter,Gryffindor,Slytherin,yonier harry potter,yonier_harrypotter
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+### Mi primer paquete
+
+Este paquete tiene como finalidad aprender
+
+```tex
+Este paquete solo tiene como finalidad retornar los nombres de los personajes de harry potter con sus respectivas casas.
+``````

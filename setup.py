@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 VERSION = '0.0.1'
 DESCRIPTION = 'personajes y casas harry potter'
-PACKAGE_NAME = 'yonier_harrypotter'
+PACKAGE_NAME = 'yonierharrypotter'
 AUTHOR = 'Yonier Gomez'
 EMAIL = 'yonieer13@gmail.com'
 GITHUB_URL = 'https://github.com/YonierGomez/yonier_harrypotter'
